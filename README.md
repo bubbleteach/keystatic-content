@@ -1,2 +1,1 @@
-# speed-painter
 # keystatic-content
